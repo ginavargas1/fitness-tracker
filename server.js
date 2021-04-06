@@ -20,7 +20,9 @@ mongoose.connect(URI, {
 });
 
 
-
+//add routes 
+// app.use(require("./routes/api.js"));
+// app.use(require("./routes/views.js"));
 
 
 app.listen(PORT, () => {
