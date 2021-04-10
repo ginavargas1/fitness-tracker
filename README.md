@@ -11,6 +11,8 @@
 
 
 ## Usage
+[Fitness Tracker](https://workout-tracker-g.herokuapp.com/?id=6071f16e2e13100015dca9f8)
+
 Fitiness Tracker is designed to track your workout based on resistance and cardio. It summarizes the name, type, weightm sets, reps, and duration of exercise. For cardio your able to track your distance. 
 The summary also gives you a graph summery 
 
